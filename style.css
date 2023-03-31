@@ -306,6 +306,9 @@ header .navbar ul li a:hover{
     background: #e6ffff;
 }
 
+
+.portfolio .heading {
+    color: rgb(243, 242, 248);
 }
 .portfolio .box-container{
     display: flex;
@@ -333,6 +336,8 @@ header .navbar ul li a:hover{
 .portfolio .box-container .box:hover img{
     transform: scale(1.2);
 }
+
+
 .contact .heading {
     color:rgb(243, 242, 248);
 }
