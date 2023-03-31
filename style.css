@@ -308,7 +308,7 @@ header .navbar ul li a:hover{
 
 
 .portfolio .heading {
-    color: rgb(243, 242, 248);
+    color: red;
 }
 .portfolio .box-container{
     display: flex;
